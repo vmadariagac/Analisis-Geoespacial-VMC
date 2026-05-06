@@ -1,0 +1,17 @@
+# Datos pesados geoespaciales
+*.tif
+*.tiff
+*.img
+*.asc
+
+# Documentos pesados
+*.pdf
+
+# Carpetas de datos
+Los Datos/
+data/
+outputs/
+
+# Entornos
+amb1/
+venv/
